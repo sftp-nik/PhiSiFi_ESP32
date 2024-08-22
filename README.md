@@ -55,3 +55,4 @@ This software is licensed under the [MIT License](https://opensource.org/license
 ## Donation / Support / Appreciation
 <a href="https://www.buymeacoffee.com/p3tr0s"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
 
+
